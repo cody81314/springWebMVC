@@ -10,8 +10,6 @@
 
 <body>
 
-  <h1 value='Test' />
-
   Hello ${name} !
 
 </body>
